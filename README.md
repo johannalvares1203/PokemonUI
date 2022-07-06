@@ -1,3 +1,10 @@
+To view the live website, click below
+https://pokeimon.herokuapp.com
+
+(Hosted using Heroku)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
